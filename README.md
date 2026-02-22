@@ -4,7 +4,7 @@ A grid-based memory training game built as a Progressive Web App (PWA). Memorize
 
 ## Demo
 
-> Coming soon
+[https://gridrecall.vercel.app](https://gridrecall.vercel.app)
 
 ## Features
 

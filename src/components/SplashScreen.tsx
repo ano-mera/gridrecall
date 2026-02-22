@@ -22,7 +22,7 @@ export default function SplashScreen({ onComplete }: SplashScreenProps) {
         isFading ? "opacity-0" : "opacity-100"
       }`}
       style={{
-        fontFamily: "Helvetica, Arial, sans-serif",
+        fontFamily: "Arial, Helvetica, sans-serif",
         paddingTop: "env(safe-area-inset-top)",
         paddingBottom: "env(safe-area-inset-bottom)",
         paddingLeft: "env(safe-area-inset-left)",
