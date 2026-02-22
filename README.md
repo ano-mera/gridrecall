@@ -1,5 +1,7 @@
 # GridRecall
 
+[![CI](https://github.com/ano-mera/gridrecall/actions/workflows/ci.yml/badge.svg)](https://github.com/ano-mera/gridrecall/actions/workflows/ci.yml)
+
 A grid-based memory training game built as a Progressive Web App (PWA). Memorize the pattern, then recall it from memory.
 
 ## Demo
