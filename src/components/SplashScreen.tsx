@@ -34,6 +34,9 @@ export default function SplashScreen({ onComplete }: SplashScreenProps) {
         <span className="font-normal">Recall</span>
         <div className="text-sm font-normal mt-2">Grid-based memory training</div>
       </div>
+      <p className="text-gray-400 text-sm mt-6 max-w-xs text-center">
+        Memorize the highlighted cells, then tap to reproduce the pattern.
+      </p>
       <button
         onClick={handleEnter}
         className="mt-8 bg-white text-black px-8 py-3 text-lg rounded hover:bg-gray-200 transition-colors"
