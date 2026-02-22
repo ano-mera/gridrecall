@@ -11,8 +11,23 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   title: "GridRecall",
-  description: "Memory training game with grid patterns",
+  description: "Grid-based memory training game. Memorize the pattern, then recall it.",
   manifest: "/manifest.json",
+  metadataBase: new URL("https://gridrecall.vercel.app"),
+  openGraph: {
+    title: "GridRecall",
+    description: "Grid-based memory training game. Memorize the pattern, then recall it.",
+    url: "https://gridrecall.vercel.app",
+    siteName: "GridRecall",
+    images: [{ url: "/og-image.png", width: 1200, height: 630 }],
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "GridRecall",
+    description: "Grid-based memory training game. Memorize the pattern, then recall it.",
+    images: ["/og-image.png"],
+  },
   appleWebApp: {
     capable: true,
     statusBarStyle: "default",
