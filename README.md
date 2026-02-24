@@ -11,9 +11,11 @@ A grid-based memory training game built as a Progressive Web App (PWA). Memorize
 ## Screenshots
 
 <p align="center">
-  <img src="public/screenshots/splash.png" width="200" alt="Splash Screen" />
-  <img src="public/screenshots/game.png" width="200" alt="Game Screen" />
-  <img src="public/screenshots/result.png" width="200" alt="Result Screen" />
+  <img src="public/screenshots/splash.png" width="160" alt="Splash Screen" />
+  <img src="public/screenshots/game.png" width="160" alt="Game Screen" />
+  <img src="public/screenshots/result.png" width="160" alt="Result Screen" />
+  <img src="public/screenshots/settings.png" width="160" alt="Settings" />
+  <img src="public/screenshots/stats.png" width="160" alt="Stats" />
 </p>
 
 ## Features
