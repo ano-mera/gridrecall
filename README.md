@@ -8,6 +8,14 @@ A grid-based memory training game built as a Progressive Web App (PWA). Memorize
 
 [https://gridrecall.vercel.app](https://gridrecall.vercel.app)
 
+## Screenshots
+
+<p align="center">
+  <img src="public/screenshots/splash.png" width="200" alt="Splash Screen" />
+  <img src="public/screenshots/game.png" width="200" alt="Game Screen" />
+  <img src="public/screenshots/result.png" width="200" alt="Result Screen" />
+</p>
+
 ## Features
 
 - **Grid Memory Game** - Memorize highlighted cells in a grid, then reproduce the pattern
